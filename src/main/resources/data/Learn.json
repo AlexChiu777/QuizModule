@@ -1,0 +1,70 @@
+{
+  "quizzes": [
+    {
+      "name": "Hack and Slash: Slashtag",
+      "type": "Hack vs. Slash",
+      "link": "/50/asmo/quiz?code=201611vid_HvSlashtag",
+      "questions": [
+        {
+          "question": "Each generation of the Intel® Core™ processor family has improved processor performance and amazing",
+          "answer": "System responsiveness"
+        },
+        {
+          "question": "A 7th gen Intel® Core™ processor can handle heavy-duty applications, such as",
+          "answer": "4K video editing"
+        },
+        {
+          "question": "7th gen Intel® Core™ processors include a dedicated",
+          "answer": "Media and graphics"
+        }
+      ]
+    },
+    {
+      "name": "The Boost: Powerful New Devices",
+      "type": "Hack vs. Slash",
+      "link": "/50/asmo/quiz?code=201611vid_BoostNewDevices",
+      "questions": [
+        {
+          "question": "Customers who want a 2 in 1 PC might be interested in the",
+          "answer": "ASUS Zenbook Flip*"
+        },
+        {
+          "question": "The Razer Blade Stealth* features which processor",
+          "answer": "Intel® Core™ i7 processor"
+        },
+        {
+          "question": "Which device gives customers a choice between an Intel® Core™ i5-7200U or an Intel® Core™ i7-7500U processor",
+          "answer": "HP Envy 13*"
+        }
+      ]
+    },
+    {
+      "name": "Hottest Devices for Holiday",
+      "type": "Hack vs. Slash",
+      "link": "/50/asmo/quiz?code=201611html-HottestDevices",
+      "questions": [
+        {
+          "question": "Thin and light devices come in a range of processors from an",
+          "answer": "Intel® Pentium® processor"
+        },
+        {
+          "question": "to a customer who wants the benefits of a 2 in 1 device and a full keyboard.",
+          "answer": "Laptop"
+        },
+        {
+          "question": "Thin and light devices powered by Intel® processors generally weigh less tha",
+          "answer": "4"
+        },
+        {
+          "question": "Which two form factors make up thin and light device",
+          "answer": "2 in 1 PCs, laptops"
+        },
+        {
+          "question": "Which device would you recommend to customers who want a thin and light device that adapts to the way they work and who aren’t concerned about a full keyboard",
+          "answer": "2 in 1 PC"
+        }
+      ]
+    }
+  ],
+  "exam": []
+}

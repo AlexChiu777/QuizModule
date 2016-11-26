@@ -1,0 +1,679 @@
+{
+  "quizzes": [
+    {
+      "name": "Processors: Usages and Technologies",
+      "type": "Processors Professional",
+      "link": "/50/asmo/quiz?code=201610html-EdgePro-cert-h15-L2_02",
+      "questions": [
+        {
+          "question": "processor Skylake-U Series powers 2 in 1 devices with screen sizes of",
+          "answer": "15.6"
+        },
+        {
+          "question": "processors feature thin, fanless designs?",
+          "answer": "M processors"
+        },
+        {
+          "question": "processors start using 14 nm technology",
+          "answer": "2014"
+        },
+        {
+          "question": "processor Skylake-S Series powers which of these devices",
+          "answer": "Mini PCs"
+        },
+        {
+          "question": "processors have unlocking capabilities",
+          "answer": "i5 processors and Intel"
+        }
+      ]
+    },
+    {
+      "name": "Distinguishing Between Kernel-level and User-level Threads",
+      "type": "Processors Professional",
+      "link": "/50/asmo/quiz?code=201610html-EdgePro-cert-spc-thread_03",
+      "questions": [
+        {
+          "question": "Which of these operating systems supports kernel-level threads",
+          "answer": "All of these"
+        },
+        {
+          "question": "Where are kernel threads executed",
+          "answer": "In the hardware threads"
+        },
+        {
+          "question": "Which thread layer is managed entirely by an application",
+          "answer": "User-level"
+        },
+        {
+          "question": "Which of these does NOT benefit from multi-threading and multi-core processors",
+          "answer": "Wi-Fi"
+        },
+        {
+          "question": "Thread management is performed by",
+          "answer": "The kernel"
+        }
+      ]
+    },
+    {
+      "name": "Processor Threading and Multi-Core Architecture",
+      "type": "Processors Professional",
+      "link": "/50/asmo/quiz?code=201610html-EdgePro-cert-spc-thread_01",
+      "questions": [
+        {
+          "question": "Which thread layer is created and managed in the application software",
+          "answer": "User-level"
+        },
+        {
+          "question": "Which thread layer manages the scheduling and execution of user-level threads",
+          "answer": "Kernel-level"
+        },
+        {
+          "question": "The processor uses",
+          "answer": "Hardware threads"
+        },
+        {
+          "question": "True or false? Threads are not useful in applications with graphical user interface (GUI)",
+          "answer": "False"
+        },
+        {
+          "question": "How many layers of threading does a computer contain",
+          "answer": "Three"
+        }
+      ]
+    },
+    {
+      "name": "Advanced Laptop Experiences with Intel Processors",
+      "type": "Device Professional",
+      "link": "/50/asmo/quiz?code=201610html-EdgePro-cert-h15-L1_08",
+      "questions": [
+        {
+          "question": "What provides the graphics, media, and display capabilities included in Intel",
+          "answer": "Processor graphics"
+        },
+        {
+          "question": "For an ultra-thin laptop, recommend",
+          "answer": "m processors"
+        },
+        {
+          "question": "10 allows users to interact keyboard-free and makes multitasking easy",
+          "answer": "Cortana"
+        },
+        {
+          "question": "processors power value laptops",
+          "answer": "Intel® Core™ i3 processors, Intel® Pentium® processors, Intel™ Celeron® processors"
+        },
+        {
+          "question": "compared to most other mobile devices",
+          "answer": "Larger screen sizes"
+        }
+      ]
+    },
+    {
+      "name": "Desktop Form Factors Elevated By Intel",
+      "type": "Device Professional",
+      "link": "/50/asmo/quiz?code=201610html-EdgePro-cert-h15-L1_08",
+      "questions": [
+        {
+          "question": "Which two technologies work together to reduce login hassle",
+          "answer": "Intel® RealSense™ technology and Windows Hello*"
+        },
+        {
+          "question": "For high-end enthusiast gaming, recommend a desktop PC with an",
+          "answer": "Intel® Core™ i7-6700K processor"
+        },
+        {
+          "question": "Which Intel® processors power Mini PCs",
+          "answer": "Intel® Core™ i3 processors, Intel® Core™ i5 processors, Intel® Core™ i7 processors"
+        },
+        {
+          "question": "Which device features an HD touchscreen, full PC productivity, and built-in battery",
+          "answer": "Portable All-in-One PC"
+        },
+        {
+          "question": "What is the highest level of Intel® graphics",
+          "answer": "Intel® Iris™ Pro graphics"
+        }
+      ]
+    },
+    {
+      "name": "Device Comparison: Tablets Powered by Intel",
+      "type": "Device Professional",
+      "link": "/50/asmo/quiz?code=201610html-EdgePro-cert-spc-competition_03",
+      "questions": [
+        {
+          "question": "A fanless and ventless processor design affects which device feature",
+          "answer": "Thin and light"
+        },
+        {
+          "question": "The tablet featuring an Intel® Atom™ processor Z3745 (1.33 GHz, 4C) has what type of camera",
+          "answer": "5 MP (rear)"
+        },
+        {
+          "question": "Which of these is NOT a way in which processor designs and capabilities make a difference in devices",
+          "answer": "Consistent Wi-Fi connectivity"
+        },
+        {
+          "question": "True or false? Design choices are often limited by processor designs and capabilities.",
+          "answer": "True"
+        },
+        {
+          "question": "Improved graphics allow images on the device to look better with",
+          "answer": "All of these"
+        }
+      ]
+    },
+    {
+      "name": "Taking Mobile Devices to the Next Level with Intel",
+      "type": "Device Professional",
+      "link": "/50/asmo/quiz?code=201610html-EdgePro-cert-h15-L3_04",
+      "questions": [
+        {
+          "question": "Your customers can enjoy logging into their device with facial recognition, thanks to",
+          "answer": "Both of these"
+        },
+        {
+          "question": "camera found on select 2 in 1s and tablets powered by 6th gen Intel® Core™ processors.",
+          "answer": "Rear-facing"
+        },
+        {
+          "question": "6th generation Intel® Core™ processors for mobility offer power scaling from",
+          "answer": "4.5W to 45W TDP"
+        },
+        {
+          "question": "6th generation Intel® Core™ processors and a USB Type-C port offer power up to",
+          "answer": "100W"
+        },
+        {
+          "question": "Which 6th generation Intel® processors take mobile computing to the next level",
+          "answer": "Intel® Core™ m3, m5, m7 processors"
+        }
+      ]
+    },
+    {
+      "name": "A Closer Look at Intel® Graphics Technology",
+      "type": "Device Professional",
+      "link": "/50/asmo/quiz?code=201610html-EdgePro-cert-h15-L3_07",
+      "questions": [
+        {
+          "question": "What is an add-on or separate piece of hardware used to run graphics",
+          "answer": "Discrete graphics card"
+        },
+        {
+          "question": "Which of the following is NOT a benefit of integrated Intel® processor graphics over a discrete graphics card",
+          "answer": "Mainstream 3D performance"
+        },
+        {
+          "question": "Intel® graphics technologies offer support for",
+          "answer": "All of these"
+        },
+        {
+          "question": "Devices featuring Intel® Iris™ Pro graphics and 6th generation Intel® Core™ i5 and i7 processors are available in",
+          "answer": "45W designs"
+        },
+        {
+          "question": "Intel® HD Graphics are available on",
+          "answer": "All of these"
+        }
+      ]
+    },
+    {
+      "name": "Consider the Options: Storage for Digital Content",
+      "type": "Device Professional",
+      "link": "/50/asmo/quiz?code=201610html-EdgePro-cert-spc-storage_02",
+      "questions": [
+        {
+          "question": "What allows the temporary storage of digital media",
+          "answer": "Integrated storage"
+        },
+        {
+          "question": "Of the devices listed, which one has the largest storage capacity",
+          "answer": "2 in 1"
+        },
+        {
+          "question": "Which of these internal storage devices uses magnetic technology and has several small moving parts",
+          "answer": "HDD"
+        },
+        {
+          "question": "Which of these internal storage devices has small amounts of NVM packaged with HDD configurations",
+          "answer": "SSHD"
+        },
+        {
+          "question": "Where does digital content reside",
+          "answer": "All of these"
+        }
+      ]
+    },
+    {
+      "name": "Upgrade the Computing Experience with Intel® SSDs",
+      "type": "Device Professional",
+      "link": "/50/asmo/quiz?code=201610html-EdgePro-cert-spc-storage_03",
+      "questions": [
+        {
+          "question": "How many types of SSDs does Intel offer",
+          "answer": "2"
+        },
+        {
+          "question": "M.2 drives are used in Mini PCs, All-in-One PCs, and",
+          "answer": "2 in 1 devices"
+        },
+        {
+          "question": "SFF 8639 form factors offer the PCIe* interface",
+          "answer": "True"
+        },
+        {
+          "question": "Which form factor offers the SATA cable",
+          "answer": "SATA"
+        },
+        {
+          "question": "Which of these is a benefit of Intel® SSDs over hard disk drives",
+          "answer": "NVM NAND flash storage medium"
+        }
+      ]
+    },
+    {
+      "name": "Advantages of In-Store Sales",
+      "type": "Sales Skills Professional",
+      "link": "/50/asmo/quiz?code=201610html-EdgePro-cert-bte_02",
+      "questions": [
+        {
+          "question": "To preempt a showrooming customer, ask and",
+          "answer": "Empathize"
+        },
+        {
+          "question": "Which of the following is not an advantage to buying in-store",
+          "answer": "Larger merchandise selection"
+        },
+        {
+          "question": "People feel most comfortable with",
+          "answer": "5"
+        },
+        {
+          "question": "True or false? Your goal is to sell a product at the lowest price",
+          "answer": "False"
+        },
+        {
+          "question": "What should you ask a showrooming customer during the needs-determination stage of the sale",
+          "answer": "Which stores or Websites they’ve already visited"
+        }
+      ]
+    },
+    {
+      "name": "Constructive Coaching",
+      "type": "Sales Skills Professional",
+      "link": "/50/asmo/quiz?code=201610html-EdgePro-cert-h15-L3_14",
+      "questions": [
+        {
+          "question": "Why should you provide your team members with appropriate feedback and coaching",
+          "answer": "It will keep your top performers motivated"
+        },
+        {
+          "question": "True or false? You should not give corrective feedback to your team members because it will discourage them",
+          "answer": "False"
+        },
+        {
+          "question": "What rule should you follow when providing feedback to your team members",
+          "answer": "80/20 rule: 80 percent positive, 20 percent corrective"
+        },
+        {
+          "question": "Choose the statement that is the most correct. When giving your team members feedback, you should",
+          "answer": "Provide more positive than corrective comments"
+        },
+        {
+          "question": "Feedback is",
+          "answer": "Any information given to a team member about their performance"
+        }
+      ]
+    },
+    {
+      "name": "Leaving an Impression on Your Customer",
+      "type": "Sales Skills Professional",
+      "link": "/asmo/quiz?code=201610html-EdgePro-cert-h15-L3_12",
+      "questions": [
+        {
+          "question": "How long after a sale do you have to increase the likelihood that a customer will return to your store",
+          "answer": "30 seconds"
+        },
+        {
+          "question": "What is one of the most effective ways to leave a lasting impression on your customers",
+          "answer": "Sincerely thanking them"
+        },
+        {
+          "question": "Should you use your customer’s name when thanking them for their business",
+          "answer": "Yes, it shows that you value them as a customer"
+        },
+        {
+          "question": "Most of the time, a customer does not return to a store because of",
+          "answer": "The sales associate’s indifference"
+        },
+        {
+          "question": "What is the last recommended thing to say to your customers as they leave the store",
+          "answer": "Invite them back"
+        }
+      ]
+    },
+    {
+      "name": "Myth or Reality: Customer Behaviors",
+      "type": "Sales Skills Professional",
+      "link": "/50/asmo/quiz?code=201610html-EdgePro-cert-h15-L2_09",
+      "questions": [
+        {
+          "question": "In most cases, why do customers change their minds",
+          "answer": "Their mind was not made up to begin with"
+        },
+        {
+          "question": "What is a recommended way to prove to the customer that your suggestions as a retail sales professional are valid",
+          "answer": "Engage your customer in a device demo"
+        },
+        {
+          "question": "True or false? Despite all of the research they do, customers do not always know what they want or need",
+          "answer": "True"
+        },
+        {
+          "question": "Choose the statement that is the most correct",
+          "answer": "Customers don’t know exactly what they want, which is why they seek your assistance in the store"
+        },
+        {
+          "question": "Customers tend to be more inclined to make a purchase when they",
+          "answer": "Feel the need to reward themselves"
+        }
+      ]
+    },
+    {
+      "name": "Opportunities with Product Returns",
+      "type": "Sales Skills Professional",
+      "link": "/50/asmo/quiz?code=201610html-EdgePro-cert-h15-L3_13",
+      "questions": [
+        {
+          "question": "When should you apologize to a customer returning a product to your store",
+          "answer": "If the product being returned was defective, or the customer changed their mind"
+        },
+        {
+          "question": "When should you show customers returning a product to your store an alternate solution",
+          "answer": "If an exchange is not the best solution"
+        },
+        {
+          "question": "As a retail sales professional, you are an ambassador of",
+          "answer": "All of these"
+        },
+        {
+          "question": "What do customers give you when they return a product to your store",
+          "answer": "The opportunity to offer them a better solution"
+        },
+        {
+          "question": "What should you do if a customer returns a product to your store that was not defective",
+          "answer": "Find out why the product wasn’t the right fit for them"
+        }
+      ]
+    }
+  ],
+  "exam": [
+    {
+      "name": "Intel Processors Professional Exam",
+      "type": "Processors Professional",
+      "xpath": "//div[@data-code='201610html-EdgePro-Processors-Exam']",
+      "questions": [
+        {
+          "question": "Which benchmark should you use with a customer who is interested in mobile gaming",
+          "answer": "Sky Diver"
+        },
+        {
+          "question": "Which thread layer is created and managed in the application software",
+          "answer": "User-level"
+        },
+        {
+          "question": "For a customer who wants a device that can handle basic tasks, such as e-mail and social media, you should use only the",
+          "answer": "False"
+        },
+        {
+          "question": "Which thread layer manages the scheduling and execution of user-level threads",
+          "answer": "Kernel-level"
+        },
+        {
+          "question": "processors started using 14 nm technology in the year",
+          "answer": "2014"
+        },
+        {
+          "question": "In the customer’s usage model, which of these does NOT fall into the",
+          "answer": "Photo enhancement"
+        },
+        {
+          "question": "The processor uses",
+          "answer": "Hardware threads"
+        },
+        {
+          "question": "Which of these benefits from multi-threading and multi-core processors",
+          "answer": "All of these"
+        },
+        {
+          "question": "Which benchmark should you use with a customer who needs a family computer for browsing, photo sharing, and Microsoft",
+          "answer": "SYSmark"
+        },
+        {
+          "question": "processors that have unlocking capabilities",
+          "answer": "i5 processors and Intel"
+        },
+        {
+          "question": "Select the thread layers that are managed entirely by an application",
+          "answer": "User-level"
+        },
+        {
+          "question": "processors enable fanless designs",
+          "answer": "m processors"
+        },
+        {
+          "question": "Step two in selecting the right benchmark is",
+          "answer": "Determine the customer’s usage model"
+        },
+        {
+          "question": "TouchXPRT* is the appropriate benchmark to use for which scenario",
+          "answer": "Light media editing"
+        },
+        {
+          "question": "Kernel threads are executed",
+          "answer": "In the hardware threads"
+        }
+      ]
+    },
+    {
+      "name": "Device Professional Exam",
+      "type": "Device Professional",
+      "xpath": "//div[@data-code='201610html-EdgePro-Devices-Exam']",
+      "questions": [
+        {
+          "question": "Which feature of Windows® 10 allows users to interact keyboard-free and makes multitasking easy",
+          "answer": "Cortana"
+        },
+        {
+          "question": "6th generation Intel® Core™ processors for mobility offer power scaling from",
+          "answer": "4.5W to 45W TDP"
+        },
+        {
+          "question": "Which of these Intel® Graphics is perfect for advanced media creation and processor computing",
+          "answer": "Intel® Iris™ Pro graphics"
+        },
+        {
+          "question": "Compared to most other mobile devices, laptops feature",
+          "answer": "Larger screen sizes"
+        },
+        {
+          "question": "For high-end enthusiast gaming, recommend a desktop PC with an",
+          "answer": "Intel® Core™ i7-6700K processor"
+        },
+        {
+          "question": "Which Intel® processor does not power Mini PCs",
+          "answer": "Intel® Core™ m3 processors"
+        },
+        {
+          "question": "6th generation Intel® Core™ processors and a USB Type-C port offer power up to",
+          "answer": "100W"
+        },
+        {
+          "question": "Which device offers PC power without a tower",
+          "answer": "Mini PC"
+        },
+        {
+          "question": "The graphics, media, and display capabilities included in Intel® processors are provided by",
+          "answer": "Processor graphics"
+        },
+        {
+          "question": "True or False? Intel® RealSense™ Camera R200 is a front-facing camera found on select 2 in 1s and tablets powered by 6th gen Intel® Core™ processors",
+          "answer": "False"
+        },
+        {
+          "question": "Improved graphics allow images on the device to look better with",
+          "answer": "Both of these"
+        },
+        {
+          "question": "True or False? Your customers can enjoy logging into their device with facial recognition, thanks to Intel® RealSense™ technology and Windows* Hello",
+          "answer": "True"
+        },
+        {
+          "question": "Which device feature does an Intel® processor affect",
+          "answer": "All of these"
+        },
+        {
+          "question": "A fanless and ventless processor design affects which device feature",
+          "answer": "Thin and light"
+        },
+        {
+          "question": "Which of these is NOT a way in which processor designs and capabilities make a difference in devices",
+          "answer": "Consistent WiFi connectivity"
+        }
+      ]
+    },
+    {
+      "name": "Technologies Professional Exam",
+      "type": "Technologies Professional",
+      "xpath": "//div[@data-code='201610html-EdgePro-Technologies-Exam']",
+      "questions": [
+        {
+          "question": "Which of these internal storage devices uses non-volatile memory, has high performance, and is rugged and reliable",
+          "answer": "SSD"
+        },
+        {
+          "question": "types of SSDs",
+          "answer": "2"
+        },
+        {
+          "question": "Which form factor offers the PCIe* x4 slot",
+          "answer": "AIC"
+        },
+        {
+          "question": "True or False? Digital content can only reside on the original recording device",
+          "answer": "False"
+        },
+        {
+          "question": "True or False? Only the AIC form factor offers the PCIe* interface.",
+          "answer": "False"
+        },
+        {
+          "question": "True or False? Intel® HD Graphics are only available on Intel® Core™ processors",
+          "answer": "False"
+        },
+        {
+          "question": "Which of these is a benefit of Intel® Solid-State Drives over hard disk drives",
+          "answer": "NVM NAND flash storage medium"
+        },
+        {
+          "question": "An add-on or separate piece of hardware used to run graphics is a/n",
+          "answer": "Discrete graphics card"
+        },
+        {
+          "question": "Which of the following is NOT a benefit of integrated Intel® processor graphics over a discrete graphics card",
+          "answer": "Mainstream 3D performance"
+        },
+        {
+          "question": "Which of these internal storage devices uses small amounts of NVM packaged with HDD configurations",
+          "answer": "SSHD"
+        },
+        {
+          "question": "Intel® Iris™ Pro graphics and 6th generation Intel® Core™ i5 and i7 processors can power",
+          "answer": "45W designs"
+        },
+        {
+          "question": "Which of these devices has the largest storage capacity",
+          "answer": "2 in 1"
+        },
+        {
+          "question": "Which form factor is provided by the SFF-8643 specification",
+          "answer": "SFF-8639"
+        },
+        {
+          "question": "Which of these resolutions does Intel® graphics technologies offer support for",
+          "answer": "All of these"
+        },
+        {
+          "question": "Through which type of storage can data be lost if the device is lost or broken",
+          "answer": "Integrated storage"
+        }
+      ]
+    },
+    {
+      "name": "Sales Skills Professional Exam",
+      "type": "Sales Skills Professional",
+      "xpath": "//div[@data-code='201610html-EdgePro-SalesSkills-Exam']",
+      "questions": [
+        {
+          "question": "seconds to increase the likelihood that a customer will return to your store",
+          "answer": "30"
+        },
+        {
+          "question": "True or False? You should only apologize to a customer returning a product to your store if the product being returned was defective",
+          "answer": "False"
+        },
+        {
+          "question": "As a retail sales professional, what are you an ambassador of",
+          "answer": "All of these"
+        },
+        {
+          "question": "Choose the statement that is the most correct",
+          "answer": "Customers don’t know exactly what they want, which is why they seek your assistance in the store."
+        },
+        {
+          "question": "Feedback is:",
+          "answer": "Any information given to a team member about their performance"
+        },
+        {
+          "question": "When giving your team members feedback:",
+          "answer": "Provide more positive than corrective comments"
+        },
+        {
+          "question": "True or False? Your goal is not to sell a product at the lowest price.",
+          "answer": "True"
+        },
+        {
+          "question": "When providing feedback to your team members, what rule should you follow?",
+          "answer": "80/20 rule: 80 percent positive, 20 percent corrective"
+        },
+        {
+          "question": "Customers tend to be more inclined to make a purchase when they",
+          "answer": "Feel the need to reward themselves"
+        },
+        {
+          "question": "True or False? You should give more corrective feedback to your team than positive feedback.",
+          "answer": "False"
+        },
+        {
+          "question": "Which of the following is not an advantage to buying in-store?",
+          "answer": "More coupons"
+        },
+        {
+          "question": "What do customers give you when they return a product to your store? Select the best answer",
+          "answer": "The opportunity to offer them a better solution"
+        },
+        {
+          "question": "What should you do if a customer returns a product to your store that was not defective",
+          "answer": "Find out why the product wasn’t the right fit for them"
+        },
+        {
+          "question": "To preempt a showrooming customer, ask and",
+          "answer": "Empathize"
+        },
+        {
+          "question": "What is the last thing you should say to your customers as they leave the store",
+          "answer": "Invite them back."
+        }
+      ]
+    }
+  ]
+}
